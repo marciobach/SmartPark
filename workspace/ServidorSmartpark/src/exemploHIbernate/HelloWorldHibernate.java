@@ -15,10 +15,10 @@ public class HelloWorldHibernate {
         config.addAnnotatedClass(Teste.class);
         SessionFactory sessionFactory = config.buildSessionFactory(); 
         Session session = sessionFactory.openSession(); 
-        inserirProduto(session); 
-        listarProdutos(session); 
+        inserirProduto(session);
+        listarProdutos(session);
         session.close();
-        sessionFactory.close(); 
+        sessionFactory.close();
     }
     
 	private static void inserirProduto(Session session) { 
