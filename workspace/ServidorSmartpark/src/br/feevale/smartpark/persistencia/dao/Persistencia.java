@@ -26,7 +26,7 @@ public class Persistencia {
 		Session session = cnx.getSession();
 		Transaction tx = session.beginTransaction(); 
 		session.delete( tabela );
-        tx.commit();
+        	tx.commit();
 	}
 	
 	public void alterar( Conexao cnx ) {
