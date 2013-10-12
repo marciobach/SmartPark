@@ -28,9 +28,9 @@ public class ImportacaoSensores {
 				
 			 	Persistencia p = new Persistencia( cnx, vaga );
 			 	p.inserir();
-			 	System.out.println( "gravandos: " + sensor );
+			 	System.out.println( "gravando: " + sensor );
 			 	
-			 	
+			 	System.out.println( );
 				
 			}
 		} finally {
