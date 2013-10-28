@@ -10,7 +10,7 @@ Cadastre-se no GitHub.com
 Entre no projeto 
 https://github.com/SamuelKlein/SmartPark
 
-e entre no arquivo email.txt 
+e entre no arquivo email.md 
 e coloque sei Email.
 
 =========
