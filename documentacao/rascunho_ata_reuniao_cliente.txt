@@ -1,0 +1,25 @@
+Data: 20:00 - 21:00 - 27/08/2013
+
+
+Em conversa com o cliente foi levantado o seguinte objetivo principal para o projeto: 
+Desenvolver um sistema web para o público geral que agilize localização das vagas de estacionamento, extraindo informações dos sensores já presentes no estacionamento da empresa.
+
+Para este objetivo o cliente espera que este sistema informe visualmente as vagas através de um mapa e após o usuário selecionar uma área específica, que seja exibido uma lista de vagas disponíveis da área.
+
+
+Após a explicação dos objetivos, os analistas iniciaram as perguntas explanação do fluxo de utilização do usuário no sistema em questão. Durante este período formam levantados mais itens relevantes para o projeto.
+
+Quanto ao controle de vagas disponíveis instalado na empresa, o cliente informou que este controle atualmente é feito por um conjunto de hardware e software fornecido por uma empresa terceirizada. O software que controla todo o hardware ja possui uma interface preparada para integração com softwares com manual e exemplos. Todos estes dados foram recolhidos para ser apresentado à equipe de desenvolvimento.
+
+Como a empresa possui vagas especiais para motos, automóveis e portadores de deficiência física, cliente achou interessante que estas vagas fossem contatas separadamente informado ao usuário os números específicos de cada tipo de vaga.
+
+Quando perguntado sobre como o sistema deve se comportar em relação ao controle de lotação do estacionamento controlado (se deve bloquear acesso em caso de estacionamento lotado), o cliente foi bem categórico relembrando o objetivo do sistema, e complementou informando que o sistema não tem objetivo de controlar o acesso ou bloqueio de veículos, mas que apenas deve indicar as vagas disponíveis. Tampouco foi aceito pelo cliente a sugestão de utilização de displays indicando visualmente a quantidade de vagas disponíveis nas áreas controladas.
+
+Foi levantado que algumas vagas podem ser utilizadas ou isoladas para diversos fins como, por exemplo: obras, montagem de estruturas temporárias no estacionamento (palco, stands de feiras), entre outros. Nestes casos, os sensores serão desligados temporariamente e não poderão ser contados como "vaga disponível" neste software.
+
+A equipe de analistas sugeriu que fosse criada uma interface especial para dispositivos móveis, onde a visualização dos dados pode ser mais bem apresentada em telas reduzidas como as de smartphones. O cliente aceitou a proposta, mas na especificou nenhum requisito ou parâmetro para isso, cabendo a nossa equipe montar esboços de telas para posterior aprovação.
+
+
+==========================================================
+
+Em breve estaremos disponibilizando o esboço de utilização do sistema, bem como manual e exemplos do software de controle de sensores.
