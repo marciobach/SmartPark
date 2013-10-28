@@ -2,3 +2,22 @@ SmartPark
 =========
 
 Projeto de controle de vagas de estacionamento.
+
+
+Tutorial
+=========
+Cadastre-se no GitHub.com
+Entre no projeto 
+https://github.com/SamuelKlein/SmartPark
+
+e entre no arquivo email.txt 
+e coloque sei Email.
+
+=========
+Baixar o 
+windows.github.com
+ou 
+mac.github.com
+
+=========
+Quando instalar o GitHub ira solicitar seu login e senha.
